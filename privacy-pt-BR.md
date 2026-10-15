@@ -6,7 +6,7 @@ title: Política de Privacidade do Friends Fighters
 
 Última atualização: 2026-10-15
 
-Outro idioma: [English](https://fberbert.github.io/friends-fighters-legal/privacy-en.html)
+Outros idiomas: [English](https://fberbert.github.io/friends-fighters-legal/privacy-en.html) | [Español](https://fberbert.github.io/friends-fighters-legal/privacy-es.html)
 
 Friends Fighters ("o jogo") é um jogo para Android de Fábio Berbert de Paula ("nós"). Esta política explica o que o jogo faz com as fotos e as outras informações que você coloca nele e o que o nosso servidor guarda quando você entra com uma conta Google. Em resumo: suas fotos, recortes de cabeça, máscaras e gravações de voz ficam no seu aparelho e nunca são enviados ao nosso servidor; eles só saem do aparelho quando você decide compartilhar um arquivo de lutador ou um vídeo da luta. O nosso servidor guarda só o necessário para contar suas criações gratuitas e desbloquear o jogo completo: o identificador da sua conta Google, os registros das suas criações e os registros das suas compras. O jogo não tem anúncios nem análises de uso.
 

@@ -6,3 +6,4 @@ title: Friends Fighters
 
 - [Privacy Policy (English)](privacy-en.html)
 - [Política de Privacidade (Português do Brasil)](privacy-pt-BR.html)
+- [Política de privacidad (Español)](privacy-es.html)
