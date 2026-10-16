@@ -4,7 +4,7 @@ title: Política de Privacidade do Friends Fighters
 
 # Política de Privacidade do Friends Fighters
 
-Última atualização: 2026-10-15
+Última atualização: 2026-10-16
 
 Outros idiomas: [English](https://fberbert.github.io/friends-fighters-legal/privacy-en.html) | [Español](https://fberbert.github.io/friends-fighters-legal/privacy-es.html)
 
@@ -38,6 +38,7 @@ Friends Fighters ("o jogo") é um jogo para Android de Fábio Berbert de Paula (
 
 - Nomes e aparência dos lutadores; suas configurações (idioma, volumes de efeitos e de música, dificuldade, vibração, controles e redução de movimento); sua resposta à pergunta de consentimento das fotos; a configuração da sua última partida; estatísticas de partidas, inclusive os confrontos diretos entre lutadores; o progresso na Escalada; e as conquistas.
 - Quando você entra com a conta: o ID da sua conta no jogo, uma chave de sessão e o registro assinado das suas criações gratuitas e do desbloqueio, além dos registros das suas criações com os códigos dos rostos e dos lutadores que aguardam confirmação.
+- Para você identificar a conta Google conectada nos Ajustes, o jogo também guarda o nome e o e-mail fornecidos pelo Google e uma pequena foto de perfil opcional, baixada do Google por HTTPS. Esses dados de exibição ficam no aparelho em um cache local separado e não são acrescentados às solicitações ao nosso servidor. Sair, trocar de conta ou excluir a conta pelo jogo apaga esse cache. Sem foto, o jogo mostra as iniciais; uma sessão existente pode atualizar os dados da conta sem gastar uma criação gratuita. O ID completo da conta no jogo continua disponível nos Ajustes em Informações para suporte.
 - Tudo fica no armazenamento privado do jogo, que outros apps não conseguem ler. Esses dados são excluídos dos backups na nuvem do Android e das transferências entre aparelhos.
 
 ## 5. Sua conta no jogo

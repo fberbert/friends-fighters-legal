@@ -4,7 +4,7 @@ title: Friends Fighters Privacy Policy
 
 # Friends Fighters Privacy Policy
 
-Last updated: 2026-10-15
+Last updated: 2026-10-16
 
 Other languages: [Português (Brasil)](https://fberbert.github.io/friends-fighters-legal/privacy-pt-BR.html) | [Español](https://fberbert.github.io/friends-fighters-legal/privacy-es.html)
 
@@ -38,6 +38,7 @@ Friends Fighters ("the game") is an Android game by Fábio Berbert de Paula ("we
 
 - Fighter names and appearance choices; your settings (language, sound and music volumes, difficulty, vibration, controls and reduced motion); your answer to the photo consent question; your last match setup; match statistics, including head-to-head records between fighters; Climb progress; and achievements.
 - When you sign in: your game account ID, a session key and the signed record of your free creations and unlock, plus your creation records with their face codes and the fighters waiting for confirmation.
+- To help you identify the connected Google account in Settings, the game also keeps the name and e-mail provided by Google and an optional small profile picture, downloaded from Google over HTTPS. These display details stay on your device in a separate local cache and are not added to requests to our server. Signing out, switching accounts or deleting the account in the app erases this cache. Without a picture the game shows initials; an existing session can refresh its account details without spending a free creation. The full game account ID remains available in Settings under Support information.
 - All of it stays in the game's private storage, which other apps cannot read. It is excluded from Android cloud backups and from device-to-device transfers.
 
 ## 5. Your game account
